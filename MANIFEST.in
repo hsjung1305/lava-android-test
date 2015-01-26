@@ -14,4 +14,5 @@ include lava_android_test/test_definitions/pm_qa/*
 include lava_android_test/test_definitions/shells/*
 include lava_android_test/test_definitions/hostshells/*
 include lava_android_test/test_definitions/methanol/*
+include lava_android_test/test_definitions/micron/bmt/rl/*
 
